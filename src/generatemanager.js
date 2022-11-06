@@ -7,7 +7,7 @@ const generateManagerHtml = function (managerObj) {
      <div class="manager-card card mb-3">
      <div class="row no-gutters">
          <div class="col-md-2 card-img  bg-light icon-space">
-             <img src="./images/manager.png" class="icon card-img" alt="Manager">
+         <img src="./images/manager.png" class="icon-2 card-img-top" alt="...">
          </div>
          <div class="col-md-9">
              <div class="card-body">

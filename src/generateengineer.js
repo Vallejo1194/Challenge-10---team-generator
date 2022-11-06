@@ -6,7 +6,7 @@ const generateEngineerHtml = function (engineerObj) {
     <div class="col">
     <div class="card m-2" style="width: 18rem;">
         <div class="icon-space d-flex justify-content-center eng-div">
-            <img src="./images/engineerBk.png" class="icon-2 card-img-top" alt="...">
+        <img src="./images/engineer.png" class="icon-2 card-img-top" alt="...">
         </div>
         <div class="card-body eng-div">
             <h4 class="card-title mb-3">${engineerObj.name}</h4>

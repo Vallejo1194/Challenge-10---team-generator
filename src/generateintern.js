@@ -7,7 +7,7 @@ const generateInternHtml = function (internObj) {
     <div class="col">
     <div class="card m-2" style="width: 18rem;">
         <div class="icon-space d-flex  justify-content-center int-div">
-            <img src="./images/internBk.png" class="icon-2 card-img-top" alt="...">
+        <img src="./images/intern.png" class="icon-2 card-img-top" alt="...">
         </div>
         <div class="card-body int-div">
             <h4 class="card-title mb-3">${internObj.name}</h4>
