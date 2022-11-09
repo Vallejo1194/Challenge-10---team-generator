@@ -7,7 +7,7 @@ CREATED a Team profile generator using  the following dependencies
 
     to start the app on the terminal we need to node the index.js file
 
-  <img width="422" alt="Captura de Pantalla 2022-11-08 a la(s) 20 44 38" src="https://user-images.githubusercontent.com/104468646/200724892-15438b1d-c91e-445e-aabf-ce017217d284.png">
+  <img width="802" alt="Captura de Pantalla 2022-11-08 a la(s) 20 47 35" src="https://user-images.githubusercontent.com/104468646/200725046-d189714e-f682-403b-9344-0088affe494e.png">
 
     
     automatically displays the manager questions 
